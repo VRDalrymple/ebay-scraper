@@ -31,12 +31,6 @@ cd ebay-scraper
 pip install -r requirements.txt
 ```
 
-## Usage
-
-```python
-# Add usage examples here
-```
-
 ## Ethical Considerations
 
 This scraper is designed to be used responsibly:
@@ -45,14 +39,6 @@ This scraper is designed to be used responsibly:
 - Do not overload servers with excessive requests
 - Consider reaching out to the website for data access permission when appropriate
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or issues, please open an issue on the GitHub repository.
